@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pivizigul</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Smokum&display=swap" rel="stylesheet">
+</head>
+<body> 
+<center>
+    <h1>Pivizigul</h1>
+  <div>
+    <font color="red"><h1>Пиво на заказ из магазина</h1></font>  — <font color="lime">Заказать пиво быстро по городу . 
+    
+     <div class="name">
+
+     <img width="400" src="http://mybeerlabel.ru/new26/Rus76JarGig004.jpg" alt=""> 
+     <img width="400" src="http://papik.pro/uploads/posts/2022-01/1641751328_46-papik-pro-p-pivnoi-den-kartinki-54.jpg" alt="">
+     <img width="400" src="https://image1.thematicnews.com/uploads/topics/preview/00/23/64/30/f23f8d60d0.jpg" alt=""> <br>
+     <h1>Места заказа пива</h1><br>
+  
+      <li><font size="10" color="green">Яндекс маркет </font> </li>
+          <li> <font size="8" color="pink">Пятёрочка</font> </li>  
+
+       <h3>Дополнительная информация</h3><br>
+
+       <a href="https://market.yandex.ru/product--pivo-baltika-0-svetloe-bezalkogolnoe-20-sht-kh-0-45-l-butylka/31653584?sponsored=1&sku=102535587429&do-waremd5=1MP0sKXPF1mLjApI49nrKA&uniqueId=63886234" target="_blank">официальный сайт</a><br>
+       
+   
+
+      
+
+    </div>
+
+</div>
+<div class="top">
+  <h3 class="tt">Красный фон и жирный текст</h3><br>
+  <h3 class="rr">Синий фон : Aquamarine</h3><br>
+  <h3 class="ee">Чёрный фон и белый текст</h3>
+</div>
+ </center>   
+</body>
+</html>
